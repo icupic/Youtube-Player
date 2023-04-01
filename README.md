@@ -1,5 +1,5 @@
 # Youtube-Player
-Youtube Media Player is an application that allows you to view any desired Youtube video. The Application is implemented using the Python programming language and the Tkinter GUI. It is a video player that identifies the desired video for playback using the video's web address and displays it. The only requirement for its functionality, i.e., displaying the desired video, is access to the internet.
+Youtube Media Player is a Desktop application that allows you to view any desired Youtube video. The Application is implemented using the Python programming language and the Tkinter GUI. It is a video player that identifies the desired video for playback using the video's web address and displays it. The only requirement for its functionality, i.e., displaying the desired video, is access to the internet.
 
 The application consists of three main parts:
 * The graphical user interface (GUI), which is integrated through Tkinter GUI
